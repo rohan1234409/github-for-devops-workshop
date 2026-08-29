@@ -15,3 +15,5 @@ hello()
 
 
 print("kalyani-rohan-pawar")
+
+print("rohan and kalyani are the freinds")

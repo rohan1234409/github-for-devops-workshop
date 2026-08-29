@@ -16,4 +16,4 @@ hello()
 
 print("kalyani-rohan-pawar")
 
-print("rohan and kalyani are the freinds")
+print("rohan and kalyani are the freinds I mean closed freinds")
